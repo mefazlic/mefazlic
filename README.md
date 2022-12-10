@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Muhammed Ebrar Fazliç
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently on my 3rd year in Istanbul University Cerrahpasa Computer Engineering
 - 📫 You can reach me at fazlic407@gmail.com
 
 <!---
